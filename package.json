@@ -10,7 +10,7 @@
   "devDependencies": {
     "@babel/cli": "7.13.16",
     "@babel/core": "7.14.0",
-    "@babel/node": "7.13.13",
+    "@babel/node": "7.14.7",
     "@babel/plugin-proposal-class-properties": "7.13.0",
     "@babel/plugin-proposal-export-default-from": "7.12.13",
     "@babel/plugin-proposal-export-namespace-from": "7.12.13",
